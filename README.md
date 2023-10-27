@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Competitive programmer and mobile application developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [MightyBlog-Codebase](https://github.com/Eshetugirma/MightyBlog-Codebase#mightyblog-codebase)
+- 🔭 I’m currently working on [MightyBlog-App](https://github.com/Eshetugirma/MightyBlog-Codebase#mightyblog-codebase)
 
-- 🌱 I’m currently learning **Advanced Flutter**
+- 🌱 I’m currently learning **Computer Engineering at Addis Ababa Science and Technology University**
 
 - 💬 Ask me about **Data Structures and Algorithms (DSA)**
 
