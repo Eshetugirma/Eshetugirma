@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Computer Engineering at [AASTU](http://www.aastu.edu.et/)**
+- 🌱 I’m currently studying **Computer Engineering at [AASTU](http://www.aastu.edu.et/)**
 
 - 💬 Ask me about **Data Structures and Algorithms (DSA)**
 
-- 📫 How to reach me **eshetugirma2020@gmail.com**
+- 📫 Feel free to contact me at **eshetugirma2020@gmail.com**
 
 - ⚡ Fun fact **Everyone is funny🎭**
 
