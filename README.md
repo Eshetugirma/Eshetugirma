@@ -8,7 +8,7 @@
 
 - 👯 I’m open to learn and collaborate on **ML projects.**
   
-- 👀 I'm looking for **SWE** intern at a company where I can apply my technical skills.
+- 👀 I'm looking for **SWE** internship at big tech company where I can apply my technical skills and learn Engineering best practices.
   
 - 💬 Ask me about **DSA and Flutter,I am happy to help**
 
