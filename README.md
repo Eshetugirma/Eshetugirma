@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently studying **Computer Engineering at [AASTU](http://www.aastu.edu.et/)**
 
-- 💬 Ask me about **Data Structures and Algorithms (DSA)**
+- 👯 I’m open to learn and collaborate on **ML projects.**
+
+- 💬 Ask me about **DSA and Flutter,I am happy to help**
 
 - 📫 Feel free to contact me at **eshetugirma2020@gmail.com**
-
-- ⚡ Fun fact **Everyone is funny🎭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
