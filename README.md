@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eshetu</h1>
 <h3 align="center">A passionate Competitive programmer and mobile application developer</h3>
 
-- 👀 I'm looking for **SWE** intern position at big tech company where I can apply my technical skills and learn Engineering best practices.
+- 👀 I'm looking for a **SWE** internship position at **company** where I can apply my technical skills and learn **Engineering best practices.**
   
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -11,10 +11,12 @@
 
 - 👯 I’m open to learn and collaborate on **ML projects.**
   
-- 💬 Ask me about **DSA and Flutter,I am happy to help**
+- 💬 Ask me about **DSA and Flutter, I am happy to help.**
 
 - 📫 Feel free to contact me at **eshetugirma2020@gmail.com**
 
+
+.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/eshetugirma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eshetugirma" height="30" width="40" /></a>
