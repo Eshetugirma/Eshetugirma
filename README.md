@@ -1,14 +1,15 @@
 ![MasterHead](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg)
 <h1 align="center">Hi 👋, I'm Eshetu</h1>
 <h3 align="center">A passionate Competitive programmer and mobile application developer</h3>
+
+- 👀 I'm looking for a **SWE** internship position at big tech company where I can apply my technical skills and learn Engineering best practices.
+  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🌱 I’m currently studying **Computer Engineering at [AASTU](http://www.aastu.edu.et/)**
 
 - 👯 I’m open to learn and collaborate on **ML projects.**
-  
-- 👀 I'm looking for **SWE** internship at big tech company where I can apply my technical skills and learn Engineering best practices.
   
 - 💬 Ask me about **DSA and Flutter,I am happy to help**
 
