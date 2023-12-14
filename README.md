@@ -11,7 +11,7 @@
 
 - 📫 Feel free to contact me at **eshetugirma2020@gmail.com**
   
-- 👀 I'm looking for a **SWE** internship and Part-time position at **company** where I can apply my technical skills and learn more on **Engineering best practices.**
+- 👀 I'm looking for a **SWE** position at **company** where I can apply my technical skills and learn more on **Engineering best practices.**
   
 _
 <h3 align="left">Connect with me:</h3>
