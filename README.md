@@ -13,7 +13,6 @@
   
 - 👀 I'm looking for a **SWE** position at **company** where I can apply my technical skills and learn more on **Engineering best practices.**
   
-_
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
