@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Competitive programmer and Mobile application developer</h3>
 
 
-- 🌱 I’m currently working **On [Eskalate](https://github.com/A2SV)**
+- 🌱 I’m currently working **On [Eskalate](https://github.com/A2SV/Eskalate)**
 
 - 👯 I’m open to learn and collaborate on **ML projects.**
   
