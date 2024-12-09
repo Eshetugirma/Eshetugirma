@@ -1,9 +1,9 @@
 ![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/2.jpg)
 <h1 align="center">Hi 👋, I'm Eshetu</h1>
-<h3 align="center">A passionate Competitive programmer and Mobile application developer</h3>
+<h3 align="center"> Software Engineer </h3>
 
 
-- 🌱 I’m currently working **On [Eskalate Africa](https://github.com/A2SV/Eskalate)**
+- 🌱 I’m currently working **On [Eskalate Africa](eskalate.io)**
 
 - 👯 I’m open to learn and collaborate on **ML projects.**
   
