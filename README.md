@@ -3,7 +3,7 @@
 <h3 align="center"> Software Engineer </h3>
 
 
-- 🌱 I’m currently working **On [Eskalate Africa](eskalate.io)**
+- 🌱 I’m currently working **On [Eskalate Africa](https://www.eskalate.io/)**
 
 - 👯 I’m open to learn and collaborate on **ML projects.**
   
