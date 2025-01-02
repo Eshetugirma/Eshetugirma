@@ -17,7 +17,7 @@
 <p align="left">
 
 <a href="https://www.leetcode.com/eshetugirma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eshetugirma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eshetu-girma-0074b0297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshetu-girma-0074b0297" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eshetu-girma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshetu-girma-0074b0297" height="30" width="40" /></a>
 <a href="https://instagram.com/eshetu_.g?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshetu_.g?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eshetugirma321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eshetugirma321" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/eshetu_girma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eshetu_girma" height="30" width="40" /></a>
